@@ -1,0 +1,3 @@
+displayName = Stopwatch
+author = ScalarVector
+version = 1.0
